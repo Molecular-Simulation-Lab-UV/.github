@@ -1,5 +1,5 @@
-![NB2P](https://tinyurl.com/n2bpPNGMedal)
-# Part of the Nucleus in NanoBioPhysics and [CINV](https://cinv.uv.cl/en/)
+[![NB2P](https://tinyurl.com/n2bpPNGMedal)](http://nanobiophysics.cl/)
+# Part of the [Nucleus in NanoBioPhysics](http://nanobiophysics.cl/) and [CINV](https://cinv.uv.cl/en/)
 ### This repository is home to a wide range of Simulation related files.<br/>
 From scripts for analysis to figure-generation scripts and everything in between, this repo has the files pertaining to the work produced and in production by the Molecular Simulation Laboratory at Universidad de Valparaíso.
 
